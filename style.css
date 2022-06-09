@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 5px;
+  width: 100%;
+}
+
+
+div, form {
+  width: 100%;
+}
+
+input {
+  margin: 5px;
+  width: 100%;
+}
+
+textarea, text {
+	width: 500px;
+	height: 100px;
+}
